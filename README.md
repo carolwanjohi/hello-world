@@ -6,7 +6,9 @@ This is  Hello, World! written in multiple languages
 
 ## Technologies Used
 * HTML
+* Javascript
 * TypeScript
 * Node
+
 
 
