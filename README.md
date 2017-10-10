@@ -8,7 +8,8 @@ This is  Hello, World! written in multiple languages
 * HTML
 * Javascript
 * TypeScript
-* Node
+* NodeJS
+* Python
 
 
 
