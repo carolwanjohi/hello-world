@@ -1,8 +1,8 @@
 # Hello World
-#### This is a repository for Hello, World! in multiple languages
+#### This is a repository for Hello, World! in multiple languages and frameworks
 
 ## Description
-This is  Hello, World! written in multiple languages
+This is  Hello, World! written in multiple languages and frameworks
 
 ## Technologies Used
 * HTML
@@ -10,6 +10,7 @@ This is  Hello, World! written in multiple languages
 * TypeScript
 * NodeJS
 * Python
+* Flask
 
 ## License
 MIT (c) 2017 **[Carol Wanjohi](https://github.com/carolwanjohi) and [Virginia Ndung'u](https://github.com/VirginiaNdungu1)**
